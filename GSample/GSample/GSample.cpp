@@ -5,6 +5,7 @@
 #include "stdafx.h"
 #include "GSample.h"
 #include "GSampleDlg.h"
+#include "stdio.h"
 
 #ifdef _DEBUG
 #define new DEBUG_NEW
