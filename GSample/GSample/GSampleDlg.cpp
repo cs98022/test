@@ -71,6 +71,8 @@ BOOL CGSampleDlg::OnInitDialog()
 {
 	CDialogEx::OnInitDialog();
 	TRACE(_T("Hello"));
+	TRACE(_T("Hello1"));
+	TRACE(_T("Hello3"));
 	// Add "About..." menu item to system menu.
 
 	// IDM_ABOUTBOX must be in the system command range.
